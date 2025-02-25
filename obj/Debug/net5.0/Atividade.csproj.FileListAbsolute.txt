@@ -1,0 +1,5 @@
+C:\Users\fernanda.llpisani\source\repos\Atividade\Atividade\obj\Debug\net5.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernanda.llpisani\source\repos\Atividade\Atividade\obj\Debug\net5.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\fernanda.llpisani\source\repos\Atividade\Atividade\obj\Debug\net5.0\Atividade.AssemblyInfo.cs
+C:\Users\fernanda.llpisani\source\repos\Atividade\Atividade\obj\Debug\net5.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\fernanda.llpisani\source\repos\Atividade\Atividade\obj\Debug\net5.0\Atividade.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\vitor\Desktop\Aula Raicley\C#\Atividade\Atividade\obj\Debug\net8.0\CriarTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\Aula Raicley\C#\Atividade\Atividade\obj\Debug\net8.0\CriarTxt.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\Aula Raicley\C#\Atividade\Atividade\obj\Debug\net8.0\CriarTxt.AssemblyInfo.cs
+C:\Users\vitor\Desktop\Aula Raicley\C#\Atividade\Atividade\obj\Debug\net8.0\CriarTxt.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Aula Raicley\C#\Atividade\Atividade\bin\Debug\net8.0\CriarTxt.exe
+C:\Users\vitor\Desktop\Aula Raicley\C#\Atividade\Atividade\bin\Debug\net8.0\CriarTxt.deps.json
+C:\Users\vitor\Desktop\Aula Raicley\C#\Atividade\Atividade\bin\Debug\net8.0\CriarTxt.runtimeconfig.json
+C:\Users\vitor\Desktop\Aula Raicley\C#\Atividade\Atividade\bin\Debug\net8.0\CriarTxt.dll
+C:\Users\vitor\Desktop\Aula Raicley\C#\Atividade\Atividade\bin\Debug\net8.0\CriarTxt.pdb
+C:\Users\vitor\Desktop\Aula Raicley\C#\Atividade\Atividade\obj\Debug\net8.0\CriarTxt.dll
+C:\Users\vitor\Desktop\Aula Raicley\C#\Atividade\Atividade\obj\Debug\net8.0\refint\CriarTxt.dll
+C:\Users\vitor\Desktop\Aula Raicley\C#\Atividade\Atividade\obj\Debug\net8.0\CriarTxt.pdb
+C:\Users\vitor\Desktop\Aula Raicley\C#\Atividade\Atividade\obj\Debug\net8.0\CriarTxt.genruntimeconfig.cache
+C:\Users\vitor\Desktop\Aula Raicley\C#\Atividade\Atividade\obj\Debug\net8.0\ref\CriarTxt.dll
